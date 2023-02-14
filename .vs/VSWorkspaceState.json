@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppointmentScheduling",
+    "\\AppointmentScheduling\\Controllers",
+    "\\AppointmentScheduling\\Migrations",
+    "\\AppointmentScheduling\\Models",
+    "\\AppointmentScheduling\\Views\\Home",
+    "\\AppointmentScheduling\\Views\\Shared",
+    "\\AppointmentScheduling\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\AppointmentScheduling\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
